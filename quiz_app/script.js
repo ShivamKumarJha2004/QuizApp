@@ -1,6 +1,6 @@
 const quiz = [
     {
-        question: " Q-1 What is the most used programming language in 2021?",
+        question: " Q-1  shivam What is the most used programming language in 2021?",
         ans1text: "Java",
         ans2text: "C",
         ans3text: "Python",
